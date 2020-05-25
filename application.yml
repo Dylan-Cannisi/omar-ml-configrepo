@@ -1,0 +1,9 @@
+info:
+  component: Config Server
+spring:
+  application:
+    name: configserver
+  jmx:
+    default_domain: cloud.config.server
+management:
+  context_path: /admin
