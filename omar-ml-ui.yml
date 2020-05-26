@@ -1,0 +1,5 @@
+environments:
+  production:
+    dataSource:
+      pooled: true
+      jmxExport: true
